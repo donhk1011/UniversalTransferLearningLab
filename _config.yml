@@ -10,7 +10,7 @@ title: Universal Transfer Learning Lab
 email: donhk@bu.edu
 description: > # this means to ignore newlines until "baseurl:"
   Website of the Universal Transfer Learning Lab.
-baseurl: "/donhk1011"
+baseurl: "/UniversalTransferLearningLab"
 url: ""
 
 include:
