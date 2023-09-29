@@ -6,10 +6,10 @@ sitemap: false
 permalink: /publications/
 ---
 
-** <a href="https://scholar.google.com/citations?user=UsqNPH4AAAAJ&hl=en">The full list of publications.</a> 
+ 
 
 # Publications
-
+Here is the <a href="https://scholar.google.com/citations?user=UsqNPH4AAAAJ&hl=en"> full list of publications.</a>
 [//]: # (## Group highlights)
 
 
@@ -91,8 +91,26 @@ permalink: /publications/
 {% assign year_last = 0 %}
 {% for publi in site.data.publist %}
 
+{% if year_last != publi.year %}
+{% if year_last != 0 %}
+</div>
+</div>
+{% endif %}
+{% assign year_last = publi.year %}
+<div class="row">
+<div class="col-sm-1 clearfix"><h4>{{ publi.year }}</h4>
+</div>
+<div class="col-sm-11 clearfix">
+{% assign div_opened = 1 %}
+{% endif %}
 
 {{ publi.title }} <br />
  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
+
+
+{% if div_opened == 1 %}
+</div>
+</div>
+{% endif %}
