@@ -3,8 +3,60 @@
   link:
     url:
     display: NeurIPS 2023
-  highlight: 1
+  highlight: 0
   year: 2023
+
+
+- title: "Dense and Aligned Captions (DAC) Promote Compositional Reasoning in VL Models"
+  authors: Sivan Doveh, Assaf Arbelle, Sivan Harary, Roei Herzig, Donghyun Kim, Paola Cascante-Bonilla, Amit Alfassy, Rameswar Panda, Raja Giryes, Rogerio Feris, Shimon Ullman, Leonid Karlinsky
+  link:
+    url:
+    display: NeurIPS 2023 (Spotlight)
+  highlight: 0
+  year: 2023
+
+
+- title: "CDAC: Cross-domain Attention Consistency in Transformer for Domain Adaptive Semantic Segmentation"
+  authors: Kaihong Wang, Donghyun Kim, Rogerio Feris, Margrit Betke
+  link:
+    url: https://arxiv.org/pdf/2211.14703.pdf
+    display: ICCV 2023
+  highlight: 0
+  year: 2023
+
+- title: "Going Beyond Nouns With Vision & Language Models Using Synthetic Data"
+  authors: Cascante-Bonilla P, Shehada K, Smith JS, Doveh S, Kim D, Panda R, Varol G, Oliva A, Ordonez V, Feris R, Karlinsky L
+  link:
+    url: https://arxiv.org/pdf/2303.17590.pdf
+    display: ICCV 2023
+  highlight: 0
+  year: 2023
+
+- title: "Teaching Structured Vision&Language Concepts to Vision&Language Models"
+  authors: Doveh, S., Arbelle, A., Harary, S., Panda, R., Herzig, R., Schwartz, E., Kim, D., Giryes, R., Feris, R., Ullman, S. and Karlinsky, L
+  link:
+    url: https://arxiv.org/pdf/2211.11733.pdf
+    display: CVPR 2023
+  highlight: 0
+  year: 2023
+
+- title: "CODA-Prompt: COntinual Decomposed Attention-based Prompting for Rehearsal-Free Continual Learning"
+  authors: Smith, J.S., Karlinsky, L., Gutta, V., Cascante-Bonilla, P., Kim, D., Arbelle, A., Panda, R., Feris, R. and Kira, Z
+  link:
+    url: https://arxiv.org/pdf/2211.13218.pdf
+    display: CVPR 2023
+  highlight: 0
+  year: 2023
+
+- title: "CODA-Prompt: COntinual Decomposed Attention-based Prompting for Rehearsal-Free Continual Learning"
+  authors: Smith, J.S., Karlinsky, L., Gutta, V., Cascante-Bonilla, P., Kim, D., Arbelle, A., Panda, R., Feris, R. and Kira, Z
+  link:
+    url: https://arxiv.org/pdf/2211.09790.pdf
+    display: CVPR 2023
+  highlight: 0
+  year: 2023
+
+
 
 #- title: "Why shot noise does not generally detect pairing in mesoscopic superconducting tunnel junctions"
 #  image: imageaward_edited.png
