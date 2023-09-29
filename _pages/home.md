@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Universal Transfer Learning Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Universal Transfer Learning Lab at Korea University."
 sitemap: false
 permalink: /
 ---

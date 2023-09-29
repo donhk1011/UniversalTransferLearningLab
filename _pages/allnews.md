@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Universal Transfer Learning Lab at Korea University."
 sitemap: false
 permalink: /allnews.html
 ---
