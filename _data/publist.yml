@@ -89,101 +89,134 @@
   highlight: 0
   year: 2021
 
-- title: ""
-  authors:
+- title: "OpenMatch: Open-set Consistency Regularization for Semi-supervised Learning with Outliers"
+  authors: Kuniaki Saito, Donghyun Kim, Kate Saenko
   link:
-    url:
-    display:
+    url: https://arxiv.org/pdf/2105.14148.pdf
+    display: NeurIPS 2021
+  highlight: 0
+  year: 2021
+
+- title: "CDS: Cross-domain Self-supervised Pre-training"
+  authors: Donghyun Kim, Kuniaki Saito, Tae-Hyun Oh, Bryan A. Plummer, Stan Sclaroff, Kate Saenko
+  link:
+    url: https://arxiv.org/pdf/2003.08264.pdf
+    display: ICCV 2021
+  highlight: 0
+  year: 2021
+
+- title: "Learning Cross-Modal Contrastive Features for Video Domain Adaptation"
+  authors: Donghyun Kim, Yi-Hsuan Tsai, Bingbing Zhuang, Xiang Yu, Stan Sclaroff, Kate Saenko, Manmohan Chandraker
+  link:
+    url: https://openaccess.thecvf.com/content/ICCV2021/papers/Kim_Learning_Cross-Modal_Contrastive_Features_for_Video_Domain_Adaptation_ICCV_2021_paper.pdf
+    display: ICCV 2021
+  highlight: 0
+  year: 2021
+
+- title: "Tune it the Right Way: Unsupervised Validation of Domain Adaptation via Neighborhood Density"
+  authors: Kuniaki Saito, Donghyun Kim, Piotr Teterwak, Stan Sclaroff, Trevor Darrell, Kate Saenko
+  link:
+    url: https://openaccess.thecvf.com/content/ICCV2021/papers/Saito_Tune_It_the_Right_Way_Unsupervised_Validation_of_Domain_Adaptation_ICCV_2021_paper.pdf
+    display: ICCV 2021
+  highlight: 0
+  year: 2021
+
+- title: "Self-supervised Visual Attribute Learning for Fashion Compatibility"
+  authors: Donghyun Kim, Kuniaki Saito, Kate Saenko, Stan Sclaroff, Bryan A Plummer
+  link:
+    url: https://arxiv.org/pdf/2008.00348.pdf
+    display: ICCV VIPriors Workshop 2021
+  highlight: 0
+  year: 2021
+
+- title: "Gerard Medioni. Multi-Task Learning from Videos via Efficient Inter-Frame Attention"
+  authors: Donghyun Kim, Tian Lan, Chuhang Zou, Ning Xu, Bryan A Plummer, Stan Sclaroff, Jayan Eledath, Gerard Medioni
+  link:
+    url: https://arxiv.org/pdf/2002.07362.pdf
+    display: ICCV MTL Workshop 2021
+  highlight: 0
+  year: 2021
+
+- title: "Universal Domain Adaptation through Self Supervision"
+  authors: Kuniaki Saito, Donghyun Kim, Stan Sclaroff, Kate Saenko
+  link:
+    url: https://arxiv.org/pdf/2002.07953.pdf
+    display: NeurIPS 2020
+  highlight: 0
+  year: 2020
+
+- title: " Learning to Scale Multilingual Representations for Vision-Language Tasks"
+  authors: Andrea Burns, Donghyun Kim, Derry Wijaya, Kate Saenko, Bryan A Plummer
+  link:
+    url: https://arxiv.org/pdf/2004.04312.pdf
+    display: ECCV 2020 (spotlight)
+  highlight: 0
+  year: 2020
+
+- title: "Multi-way Encoding for Robustness"
+  authors: Donghyun Kim, Sarah Adel Bargal, Jianming Zhang, Stan Sclaroff
+  link:
+    url: https://arxiv.org/pdf/1906.02033.pdf
+    display: WACV 2020
+  highlight: 0
+  year: 2020
+
+- title: "MULE: Multimodal Universal Language Embedding"
+  authors: Donghyun Kim, Kuniaki Saito, Kate Saenko, Stan Sclaroff, Bryan A. Plummer
+  link:
+    url: https://arxiv.org/pdf/1909.03493.pdf
+    display: AAAI 2020
+  highlight: 0
+  year: 2020
+
+- title: "Semi-supervised Domain Adaptation via Minimax Entropy"
+  authors: Kuniaki Saito, Donghyun Kim, Stan Sclaroff, Trevor Darrell, Kate Saenko
+  link:
+    url: https://arxiv.org/pdf/1904.06487.pdf
+    display: ICCV 2019
+  highlight: 0
+  year: 2019
+
+- title: "Excitation Backprop for RNNs"
+  authors: Sarah Adel Bargal*, Andrea Zunino*, Donghyun Kim, Jianming Zhang, Vittorio Murino, Stan Sclaroff
+  link:
+    url: https://arxiv.org/abs/1711.06778
+    display: CVPR 2018
+  highlight: 0
+  year: 2018
+
+- title: "Excitation Backprop for RNNs"
+  authors: Sarah Adel Bargal*, Andrea Zunino*, Donghyun Kim, Jianming Zhang, Vittorio Murino, Stan Sclaroff
+  link:
+    url: https://arxiv.org/abs/1711.06778
+    display: CVPR 2018
   highlight: 0
   year:
 
-- title: ""
-  authors:
+- title: "Deep 3D Face Identification"
+  authors: Donghyun Kim, Matthias Hernandez, Jongmoo Choi, G ́erard Medioni
   link:
-    url:
-    display:
+    url: https://arxiv.org/abs/1703.10714
+    display:  International Joint Conference on Biometrics (IJCB) 2017
   highlight: 0
-  year:
+  year: 2017
 
-- title: ""
-  authors:
-  link:
-    url:
-    display:
-  highlight: 0
-  year:
-- title: ""
-  authors:
-  link:
-    url:
-    display:
-  highlight: 0
-  year:
 
-- title: ""
-  authors:
+- title: "Expression Invariant 3D Face Modeling from an RGB-D Video"
+  authors: Donghyun Kim, Jongmoo Choi, Jatuporn Toy Leksut, G ́erard Medioni
   link:
-    url:
-    display:
+    url: https://arxiv.org/abs/1711.06778
+    display: International Conference on Pattern Recognition (ICPR) 2016 (Oral)
   highlight: 0
-  year:
+  year: 2016
 
-- title: ""
-  authors:
+- title: "Accurate 3D face modeling and recognition from RGB-D stream in the presence of large pose changes"
+  authors: Donghyun Kim, Jongmoo Choi, Jatuporn Toy Leksut, G ́erard Medioni
   link:
-    url:
-    display:
+    url: https://arxiv.org/abs/1711.06778
+    display: IEEE International Conference on Image Processing (ICIP) 2016
   highlight: 0
-  year:
-
-- title: ""
-  authors:
-  link:
-    url:
-    display:
-  highlight: 0
-  year:
-
-- title: ""
-  authors:
-  link:
-    url:
-    display:
-  highlight: 0
-  year:
-
-- title: ""
-  authors:
-  link:
-    url:
-    display:
-  highlight: 0
-  year:
-
-- title: ""
-  authors:
-  link:
-    url:
-    display:
-  highlight: 0
-  year:
-
-- title: ""
-  authors:
-  link:
-    url:
-    display:
-  highlight: 0
-  year:
-
-- title: ""
-  authors:
-  link:
-    url:
-    display:
-  highlight: 0
-  year:
-
+  year: 2016
 
 #- title: "Why shot noise does not generally detect pairing in mesoscopic superconducting tunnel junctions"
 #  image: imageaward_edited.png
