@@ -28,8 +28,8 @@ permalink: /team/
   <h4>{{ member.name }}</h4>
 
 [//]: # (  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->)
-  {{ member.info }} <!--<br>email: <{{ member.email }}> -->
-  {{ member.dept }} 
+  {{ member.info }} <!--<br>email: <{{ member.email }}> --> <br />
+  {{ member.dept }}  <br />
   {{ member.school }}
   <ul style="overflow: hidden">
 
