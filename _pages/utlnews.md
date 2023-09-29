@@ -9,7 +9,9 @@ permalink: /utlnews.html
 # News
 
 {% for article in site.data.news %}
+<br />
+<br />
+<font color="#0000A0"> {{ article.date }} </font>
+{{ article.headline | markdownify}}
 
-<font color="#0000A0"> {{ article.date }} </font> <br />
-<b>{{ article.headline | markdownify}}</b> <br />
 {% endfor %}
