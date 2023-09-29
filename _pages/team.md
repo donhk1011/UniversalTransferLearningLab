@@ -130,9 +130,9 @@ permalink: /team/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+<br />
 
-
-## Alumni
+## Visitors
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
