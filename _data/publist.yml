@@ -1,12 +1,10 @@
 - title: "Learning Human Action Recognition Representations Without Real Humans"
-  image:
-  description:
   authors: Howard Zhong, Samarth Mishra, Donghyun Kim, SouYoung Jin, Rameswar Panda, Hilde Kuehne, Leonid Karlinsky, Venkatesh Saligrama, Aude Oliva, Rogerio Feris
   link:
     url:
     display: NeurIPS 2023
   highlight: 1
-  news2:
+  Year: 2023
 
 #- title: "Why shot noise does not generally detect pairing in mesoscopic superconducting tunnel junctions"
 #  image: imageaward_edited.png
