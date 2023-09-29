@@ -8,7 +8,7 @@ permalink: /openings
 
 # Open positions
 
-**We are currently open for MS, MS/PhD, PhD, and postdoc applications related to the topic of transfer learing.**
+**We are currently open for MS, MS/PhD, PhD, and postdoc applications related to the topic of transfer learning.**
 
 
 <h4>Our lab is looking for students who</h4>
