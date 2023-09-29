@@ -13,7 +13,7 @@ permalink: /openings
 
 <h4>Our lab is looking for students who</h4>
 <ul>
-  <li>are seeking individuals who possess enthusiasm, skill, and determination to join our group!</li>
+  <li> possess enthusiasm, skill, and determination to join our group!</li>
   <li> are expected to publish 1+ paper in top-tiered conferences </li>
   
 </ul>
