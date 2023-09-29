@@ -56,6 +56,134 @@
   highlight: 0
   year: 2023
 
+- title: " VisDA 2022 Challenge: Sim2Real Domain Adaptation for Industrial Recycling"
+  authors: D. Bashkirova, P. Teterwak, S. Mishra, D. Kim, , R. Lai, F. Alladkani, J. Akl, B. Calli, V. Ablavsky, S. Bargal, K. Saenko
+  link:
+    url: https://proceedings.mlr.press/v220/bashkirova22a/bashkirova22a.pdf
+    display: NeurIPS 2022 Competition
+  highlight: 0
+  year: 2022
+
+- title: "A Broad Study of Pre-training for Domain Generalization and Adaptation"
+  authors: Donghyun Kim, Kaihong Wang, Stan Sclaroff, and Kate Saenko
+  link:
+    url: https://arxiv.org/pdf/2203.11819.pdf
+    display: ECCV 2022
+  highlight: 0
+  year: 2022
+
+
+- title: "A Unified Framework for Domain Adaptive Pose
+Estimation"
+  authors:  Donghyun Kim*, Kaihong Wang*, Kate Saenko, Margrit Betke, Stan Sclaroff
+  link:
+    url: https://arxiv.org/pdf/2204.00172.pdf
+    display: ECCV 2022
+  highlight: 0
+  year: 2022
+
+- title: ""
+  authors:
+  link:
+    url:
+    display:
+  highlight: 0
+  year:
+
+- title: ""
+  authors:
+  link:
+    url:
+    display:
+  highlight: 0
+  year:
+
+- title: ""
+  authors:
+  link:
+    url:
+    display:
+  highlight: 0
+  year:
+
+- title: ""
+  authors:
+  link:
+    url:
+    display:
+  highlight: 0
+  year:
+- title: ""
+  authors:
+  link:
+    url:
+    display:
+  highlight: 0
+  year:
+
+- title: ""
+  authors:
+  link:
+    url:
+    display:
+  highlight: 0
+  year:
+
+- title: ""
+  authors:
+  link:
+    url:
+    display:
+  highlight: 0
+  year:
+
+- title: ""
+  authors:
+  link:
+    url:
+    display:
+  highlight: 0
+  year:
+
+- title: ""
+  authors:
+  link:
+    url:
+    display:
+  highlight: 0
+  year:
+
+- title: ""
+  authors:
+  link:
+    url:
+    display:
+  highlight: 0
+  year:
+
+- title: ""
+  authors:
+  link:
+    url:
+    display:
+  highlight: 0
+  year:
+
+- title: ""
+  authors:
+  link:
+    url:
+    display:
+  highlight: 0
+  year:
+
+- title: ""
+  authors:
+  link:
+    url:
+    display:
+  highlight: 0
+  year:
 
 
 #- title: "Why shot noise does not generally detect pairing in mesoscopic superconducting tunnel junctions"
