@@ -48,15 +48,15 @@
   highlight: 0
   year: 2023
 
-- title: "CODA-Prompt: COntinual Decomposed Attention-based Prompting for Rehearsal-Free Continual Learning"
-  authors: Smith, J.S., Karlinsky, L., Gutta, V., Cascante-Bonilla, P., Kim, D., Arbelle, A., Panda, R., Feris, R. and Kira, Z
+- title: "ConStruct-VL: Data-Free Continual Structured VL Concepts Learning"
+  authors: Smith, J.S., Cascante-Bonilla, P., Arbelle, A., Kim, D., Panda, R., Cox, D., Yang, D., Kira, Z., Feris, R. and Karlinsky, L
   link:
     url: https://arxiv.org/pdf/2211.09790.pdf
     display: CVPR 2023
   highlight: 0
   year: 2023
 
-- title: " VisDA 2022 Challenge: Sim2Real Domain Adaptation for Industrial Recycling"
+- title: "VisDA 2022 Challenge: Sim2Real Domain Adaptation for Industrial Recycling"
   authors: D. Bashkirova, P. Teterwak, S. Mishra, D. Kim, , R. Lai, F. Alladkani, J. Akl, B. Calli, V. Ablavsky, S. Bargal, K. Saenko
   link:
     url: https://proceedings.mlr.press/v220/bashkirova22a/bashkirova22a.pdf
@@ -73,8 +73,7 @@
   year: 2022
 
 
-- title: "A Unified Framework for Domain Adaptive Pose
-Estimation"
+- title: "A Unified Framework for Domain Adaptive Pose Estimation"
   authors:  Donghyun Kim*, Kaihong Wang*, Kate Saenko, Margrit Betke, Stan Sclaroff
   link:
     url: https://arxiv.org/pdf/2204.00172.pdf
@@ -82,13 +81,13 @@ Estimation"
   highlight: 0
   year: 2022
 
-- title: ""
-  authors:
+- title: "VisDA-2021 Competition: Universal Domain Adaptation to Improve Performance on Out-of-Distribution Data"
+  authors: D. Bashkirova*, D Hendrycks*, D. Kim*, S. Mishra*, K. Saenko*, K. Saito*, P. Teterwak*, B. Usman*
   link:
-    url:
-    display:
+    url: https://proceedings.mlr.press/v176/bashkirova22a/bashkirova22a.pdf
+    display: NeurIPS 2021 Competition
   highlight: 0
-  year:
+  year: 2021
 
 - title: ""
   authors:

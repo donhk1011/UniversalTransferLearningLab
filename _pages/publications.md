@@ -8,7 +8,7 @@ permalink: /publications/
 
  
 
-# Publications
+<h1> Publications </h1>
 Here is the <a href="https://scholar.google.com/citations?user=UsqNPH4AAAAJ&hl=en"> full list of publications.</a>
 
 
@@ -95,16 +95,11 @@ Here is the <a href="https://scholar.google.com/citations?user=UsqNPH4AAAAJ&hl=e
 
 {% if year_last != publi.year %}
 {% if year_last != 0 %}
-</div>
-</div>
 {% endif %}
 {% assign year_last = publi.year %}
-<div class="row">
-<h3>  {{ publi.year }}</h3>
-</div>
+<h3>{{ publi.year }}</h3>
 {% assign div_opened = 1 %}
 {% endif %}
-
 {{ publi.title }} <br />
 <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
