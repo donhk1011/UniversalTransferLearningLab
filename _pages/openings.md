@@ -21,6 +21,7 @@ permalink: /openings
 
 If you have an interest in collaborating with us as a master's, master's/PhD, doctoral student, or postdoctoral researcher, kindly reach out to me via [email](mailto:d_kim@korea.ac.kr) with your CV and academic transcripts.
 
+The application timeline for Spring 2024 is in <a href="http://xai.korea.ac.kr/kor/borad/event?viewMode=view&ca=&sel_search=&txt_search=&page=1&idx=12">here</a>. 
 
 [//]: # ()
 [//]: # (### Past open positions)
