@@ -8,10 +8,39 @@ permalink: /
 
 We are Universal Transfer Learning lab at Korea University with <a href="">Prof. Donghyun Kim</a>. Our research interests fall within the unbrella of transfer learinng with a foucs on tranferability, generalization, adaptability of AI across diverse AI fields.
 
-**We are  looking for passionate new MS, MS/PhD, PhD students students or Postdocs to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+<h2 id="research-area">Research Interest</h2>
+<p>Our overarching objective is to pioneer the creation of highly effective transfer learning algorithms that can seamlessly transcend the boundaries of disparate domains and modalities found within a multitude of fields. These algorithms will be specifically tailored to cater to a wide spectrum of real-world applications, thus driving innovation and advancements in various industries and sectors.
+
+[//]: # (Two underlying themes of our research are:</p>)
+
+[//]: # (<ol>)
+
+[//]: # (  <li><em>Representation</em>: How can we extract knowledge from different modalities of data and represent them in a unified way such that the relations among different modalities are captured, and the synergy within the multimodality is facilitated?</li>)
+
+[//]: # (  <li><em>Fusion</em>: How can we combine the extracted knowledge and customize it to facilitate various underlying target applications?</li>)
+
+[//]: # (</ol>)
+
+<p>Our main research interests include but not limited to the following:</p>
+<ul>
+  <li>Domain Transfer (Adaptation/Generalization) </li>
+  <li>Task Transfer</li>
+  <li>Foundation Model Adaptation</li>
+  <li>Efficient Adaptation</li>
+  <li>Multimodal Representation Learinng</li>
+  <li>Transferable Representation Learinng</li>
+  <li>Un/self-supervsed Learning</li>
+  <li>Learning From Synthetic Data</li>
+  <li>Learning Compositionality</li>
+  <li>Etc…</li>
+</ul>
 
 
-Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
+
+**We are  looking for passionate new MS, MS/PhD, PhD students students or Postdocs to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
+
+
+[//]: # (Our aim is to explore and understand [quantum materials]&#40;http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html&#41;, including strange metals, high-temperature superconductors, and quantum critical electron matter.)
 
 [//]: # ()
 [//]: # (<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >)
