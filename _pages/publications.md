@@ -100,7 +100,7 @@ Here is the <a href="https://scholar.google.com/citations?user=UsqNPH4AAAAJ&hl=e
 {% endif %}
 {% assign year_last = publi.year %}
 <div class="row">
-<h4>{{ publi.year }}</h4>)
+<h3>{{ publi.year }}</h3>
 </div>
 {% assign div_opened = 1 %}
 {% endif %}
@@ -112,6 +112,4 @@ Here is the <a href="https://scholar.google.com/citations?user=UsqNPH4AAAAJ&hl=e
 
 
 {% if div_opened == 1 %}
-</div>
-</div>
 {% endif %}
