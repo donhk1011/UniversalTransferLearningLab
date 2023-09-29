@@ -11,7 +11,7 @@ permalink: /openings
 **We are currently open for MS, MS/PhD, PhD, and postdoc applications related to the topic of transfer learing.**
 
 
-<h2>Our lab is looking for students who</h2>
+<h4>Our lab is looking for students who</h4>
 <ul>
   <li>are seeking individuals who possess enthusiasm, skill, and determination to join our group!</li>
   <li> are expected to publish 1+ paper in top-tiered conferences </li>
