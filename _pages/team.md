@@ -1,19 +1,19 @@
 ---
-title: "Allan Lab - Team"
+title: "UTL Lab - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "UTL Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
 
 # Group Members
 
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are  looking for new Master/PhD,PhD, Master students, and Postdocs to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+[//]: # (Jump to [staff]&#40;#staff&#41;, [master and bachelor students]&#40;#master-and-bachelor-students&#41;, [alumni]&#40;#alumni&#41;, [administrative support]&#40;#administrative-support&#41;, [lab visitors]&#40;#lab-visitors&#41;.)
 
-## Staff
+## Professor
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -78,7 +78,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 
 
-## Master and Bachelor Students
+##  Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -143,14 +143,19 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 <div class="row">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
-  <ul style="overflow: hidden">
+[//]: # (<div class="col-sm-6 clearfix">)
 
-  </ul>
-</div>
+[//]: # (  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />)
+
+[//]: # (  <h4>{{ member.name }}</h4>)
+
+[//]: # (  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>)
+
+[//]: # (  <ul style="overflow: hidden">)
+
+[//]: # ()
+[//]: # (  </ul>)
+[//]: # (</div>)
 
 {% assign number_printed = number_printed | plus: 1 %}
 
@@ -165,32 +170,53 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
-## Former visitors, BSc/ MSc students
-<div class="row">
+## Former students
 
-<div class="col-sm-4 clearfix">
-<h4>Visitors</h4>
-{% for member in site.data.alumni_visitors %}
-{{ member.name }}
-{% endfor %}
-</div>
+[//]: # (<div class="row">)
 
-<div class="col-sm-4 clearfix">
-<h4>Master students</h4>
-{% for member in site.data.alumni_msc %}
-{{ member.name }}
-{% endfor %}
-</div>
+[//]: # ()
+[//]: # (<div class="col-sm-4 clearfix">)
 
-<div class="col-sm-4 clearfix">
-<h4>Bachelor Students</h4>
-{% for member in site.data.alumni_bsc %}
-{{ member.name }}
-{% endfor %}
-</div>
+[//]: # (<h4>Visitors</h4>)
 
-</div>
+[//]: # ({% for member in site.data.alumni_visitors %})
+
+[//]: # ({{ member.name }})
+
+[//]: # ({% endfor %})
+
+[//]: # (</div>)
+
+[//]: # ()
+[//]: # (<div class="col-sm-4 clearfix">)
+
+[//]: # (<h4>Master students</h4>)
+
+[//]: # ({% for member in site.data.alumni_msc %})
+
+[//]: # ({{ member.name }})
+
+[//]: # ({% endfor %})
+
+[//]: # (</div>)
+
+[//]: # ()
+[//]: # (<div class="col-sm-4 clearfix">)
+
+[//]: # (<h4>Bachelor Students</h4>)
+
+[//]: # ({% for member in site.data.alumni_bsc %})
+
+[//]: # ({{ member.name }})
+
+[//]: # ({% endfor %})
+
+[//]: # (</div>)
+
+[//]: # ()
+[//]: # (</div>)
 
 
-## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
+[//]: # (## Administrative Support)
+
+[//]: # (<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us &#40;and other groups&#41; with administration.)
