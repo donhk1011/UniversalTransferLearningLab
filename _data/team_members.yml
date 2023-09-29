@@ -1,11 +1,12 @@
-- name: Donghyun Kim
+- name: <a href="http://cs-people.bu.edu/donhk/">Donghyun Kim</a>
   photo: Donghyun.jpg
   info: Assistant professor since Sep. 2023
   email: d_kim@korea.ac.kr
-  number_educ: 3
-  education1: Ph.D at Boston University with <a href="https://scholar.google.com/citations?user=nXBQn7gAAAAJ&hl=en">Prof. Stan Sclaroff</a> and <a href="https://scholar.google.com/citations?user=9xDADY4AAAAJ&hl=en">Prof. Kate Saenko</a>
-  education2: MS at University of Southern California with <a href="https://scholar.google.com/citations?user=b0k2tTgAAAAJ&hl=en">Prof. Gerard Medioni</a> and  <a href="https://scholar.google.com/citations?user=_misuyEAAAAJ&hl=en">Dr. Jongmoo Choi</a>
-  education3: Sogang University
+  number_educ: 4
+  education1: Research Staff Member at MIT-IBM Watson AI Lab
+  education2: Ph.D at Boston University with <a href="https://scholar.google.com/citations?user=nXBQn7gAAAAJ&hl=en">Prof. Stan Sclaroff</a> and <a href="https://scholar.google.com/citations?user=9xDADY4AAAAJ&hl=en">Prof. Kate Saenko</a>
+  education3: M.S at University of Southern California with <a href="https://scholar.google.com/citations?user=b0k2tTgAAAAJ&hl=en">Prof. Gerard Medioni</a> and  <a href="https://scholar.google.com/citations?user=_misuyEAAAAJ&hl=en">Dr. Jongmoo Choi</a>
+  education4: B.S at Sogang University
 
 #- name: Jianfeng (Jacky) Ge
 #  photo: Jacky.jpg
