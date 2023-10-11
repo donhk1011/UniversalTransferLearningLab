@@ -179,7 +179,8 @@ I was a research staff member at MIT-IBM Watson AI Lab. I obtained my PhD in the
 <br />
 
 ## Former students
-<br />
+
+[//]: # (<br />)
 [//]: # (<div class="row">)
 
 [//]: # ()
