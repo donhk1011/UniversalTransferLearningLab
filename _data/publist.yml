@@ -1,3 +1,11 @@
+- title: "Grafting Vision Transformers"
+  authors: Jongwoo Park, Kumara Kahatapitiya, Donghyun Kim, Shivchander Sudalairaj, Quanfu Fan, Michael S Ryoo
+  link:
+    url: https://arxiv.org/pdf/2210.15943.pdf
+    display: WACV 2024
+  highlight: 0
+  year: 2024
+
 - title: "Learning Human Action Recognition Representations Without Real Humans"
   authors: Howard Zhong, Samarth Mishra, Donghyun Kim, SouYoung Jin, Rameswar Panda, Hilde Kuehne, Leonid Karlinsky, Venkatesh Saligrama, Aude Oliva, Rogerio Feris
   link:
@@ -185,13 +193,6 @@
   highlight: 0
   year: 2018
 
-- title: "Excitation Backprop for RNNs"
-  authors: Sarah Adel Bargal*, Andrea Zunino*, Donghyun Kim, Jianming Zhang, Vittorio Murino, Stan Sclaroff
-  link:
-    url: https://arxiv.org/abs/1711.06778
-    display: CVPR 2018
-  highlight: 0
-  year:
 
 - title: "Deep 3D Face Identification"
   authors: Donghyun Kim, Matthias Hernandez, Jongmoo Choi, G ́erard Medioni
