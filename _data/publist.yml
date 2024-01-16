@@ -1,5 +1,14 @@
+- title: "Adaptive Self-training Framework for Fine-grained Scene Graph Generation"
+  authors: Kibum Kim, Kanghoon Yoon, Yeonjun In, Jinyoung Moon, Donghyun Kim, Chanyoung Park
+  link:
+    url: https://openreview.net/pdf?id=WipsLtH77t
+    display: ICLR 2024
+  highlight: 0
+  year: 2024
+
+
 - title: "Grafting Vision Transformers"
-  authors: Jongwoo Park, Kumara Kahatapitiya, Donghyun Kim, Shivchander Sudalairaj, Quanfu Fan, Michael S Ryoo
+  authors: Jongwoo Park, Kumara Kahatapitiya, Donghyun Kim, Shivchander Sudalairaj, Quanfu Fan, Michael S. Ryoo
   link:
     url: https://arxiv.org/pdf/2210.15943.pdf
     display: WACV 2024
