@@ -1,3 +1,27 @@
+- title: "Visual Delta Generator for Semi-supervised Composed Image Retrieval"
+  authors: Young Kyun Jang*, Donghyun Kim*, Zihang Meng, Dat Huynh, Ser-Nam Lim
+  link:
+    url:
+    display: CVPR 2024
+  highlight: 0
+  year: 2024
+
+- title: "What, How, and When Should Object Detectors Update in Continually Changing Test Domains?"
+  authors: Jayeon Yoo, Dongkwan Lee, Inseop Chung, Donghyun Kim*, Nojun Kwak*
+  link:
+    url:
+    display: CVPR 2024
+  highlight: 0
+  year: 2024
+
+- title: "LLM4SGG: Large Language Model for Weakly Supervised Scene Graph Generation"
+  authors: Kibum Kim, Kanghoon Yoon, Jaehyeong Jeon, Yeonjun In, Jinyoung Moon, Donghyun Kim, Chanyoung Park
+  link:
+    url:
+    display: CVPR 2024
+  highlight: 0
+  year: 2024
+
 - title: "Adaptive Self-training Framework for Fine-grained Scene Graph Generation"
   authors: Kibum Kim, Kanghoon Yoon, Yeonjun In, Jinyoung Moon, Donghyun Kim, Chanyoung Park
   link:
