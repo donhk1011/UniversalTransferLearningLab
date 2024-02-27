@@ -1,5 +1,5 @@
 - title: "Visual Delta Generator for Semi-supervised Composed Image Retrieval"
-  authors: Young Kyun Jang\*, Donghyun Kim{*}, Zihang Meng, Dat Huynh, Ser-Nam Lim
+  authors: Young Kyun Jang\*, Donghyun Kim\*, Zihang Meng, Dat Huynh, Ser-Nam Lim
   link:
     url:
     display: CVPR 2024
@@ -7,7 +7,7 @@
   year: 2024
 
 - title: "What, How, and When Should Object Detectors Update in Continually Changing Test Domains?"
-  authors: Jayeon Yoo, Dongkwan Lee, Inseop Chung, Donghyun Kim*, Nojun Kwak*
+  authors: Jayeon Yoo, Dongkwan Lee, Inseop Chung, Donghyun Kim\*, Nojun Kwak\*
   link:
     url:
     display: CVPR 2024
