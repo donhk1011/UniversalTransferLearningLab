@@ -144,6 +144,13 @@ Yongseo Kim
 <br />
 
 ## Visitors
+Dujin Lee
+Ye Seul Cho
+Youngil Shin
+Yongkyun Kim
+Myeongsek Nam
+Gyutak Hahn
+
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
