@@ -144,12 +144,12 @@ Yongseo Kim
 <br />
 
 ## Visitors
-Dujin Lee
-Ye Seul Cho
-Youngil Shin
-Yongkyun Kim
-Myeongsek Nam
-Gyutak Hahn
+Dujin Lee <br>
+Ye Seul Cho <br>
+Youngil Shin <br>
+Yongkyun Kim <br>
+Myeongsek Nam <br>
+Gyutak Hahn <br>
 
 
 {% assign number_printed = 0 %}
