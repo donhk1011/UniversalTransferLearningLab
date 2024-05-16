@@ -85,7 +85,7 @@ I joined the Department of Artificial Intelligence at Korea University in Fall 2
 I was a research staff member at MIT-IBM Watson AI Lab. I obtained my PhD in the Image and Video Computing Group at Boston University, advised by Prof. Stan Sclaroff and Prof. Kate Saenko. I received my Master's degree in Computer Science from University of Southern California. I had been working on 3D face modeling and recognition with Prof. Gerard Medioni and Dr. Jongmoo Choi in Computer Vision Group. My research interests focus on representation learning in Computer Vision and Deep Learning. Here is my <a href="https://scholar.google.com/citations?user=UsqNPH4AAAAJ&hl">Google Scholar</a>.
 
 ##  Students
-**We are  looking for new Master/PhD,PhD, Master students, and Postdocs to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/openings) **!**
+**We are  looking for new MS/PhD, PhD, and Postdocs to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
