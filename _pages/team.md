@@ -89,6 +89,10 @@ I was a research staff member at MIT-IBM Watson AI Lab. I obtained my PhD in the
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
+Jung Myung Wi <br>
+Yongseo Kim 
+
+
 {% assign even_odd = number_printed | modulo: 2 %}
 
 {% if even_odd == 0 %}
@@ -199,7 +203,8 @@ I was a research staff member at MIT-IBM Watson AI Lab. I obtained my PhD in the
 [//]: # ()
 [//]: # (<div class="col-sm-4 clearfix">)
 
-[//]: # (<h4>Master students</h4>)
+[//]: # (<h4>Graduate students</h4>)
+
 
 [//]: # ({% for member in site.data.alumni_msc %})
 
