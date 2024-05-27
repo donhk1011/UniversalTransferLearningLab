@@ -88,7 +88,6 @@ I was a research staff member at MIT-IBM Watson AI Lab. I obtained my PhD in the
 
 ##  Students
 Jung Myung Wi <br>
-Youngseo Kim 
 
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
