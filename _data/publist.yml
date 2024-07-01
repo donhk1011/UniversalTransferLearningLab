@@ -1,8 +1,17 @@
+
 - title: "Learning Compositional Language-based Object Detection with Diffusion-Based Structured Synthetic Data"
   authors: Kwanyong Park, Kuniaki Saito, Donghyun Kim
   link:
     url:
-    display: CVPR 2024 Workshop on "Generative Models for Computer Vision"
+    display: EECV 2024 and CVPR 2024 Workshop on "Generative Models for Computer Vision"
+  highlight: 0
+  year: 2024
+
+- title: "Efficient and Versatile Robust Fine-Tuning of Zero-shot Models"
+  authors: Sungyeon Kim, Boseung Jeong, Donghyun Kim, Suha Kwak
+  link:
+    url:
+    display: EECV 2024
   highlight: 0
   year: 2024
 
