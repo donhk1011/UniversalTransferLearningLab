@@ -87,7 +87,12 @@ I was a research staff member at MIT-IBM Watson AI Lab. I obtained my PhD in the
 **We are  looking for new MS/PhD, PhD, and Postdocs to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/openings) **!** <br>
 
 ##  Students
+Sojung Ahn <br>
 Jung Myung Wi <br>
+Dujin Lee <br>
+Yongwoo Kim <br>
+Hyunsoo Kim <br>
+
 
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
@@ -144,11 +149,15 @@ Jung Myung Wi <br>
 
 ## Visitors
 Dujin Lee <br>
-Ye Seul Cho <br>
 Youngil Shin <br>
 Yongkyun Kim <br>
-Myeongsek Nam <br>
 Gyutak Hahn <br>
+Hyunbum Cho <br>
+Hyunjee Song <br>
+Seungjae Moon <br>
+Sunwoo Choi <br>
+Sungmin Kim <br>
+
 
 
 {% assign number_printed = 0 %}
