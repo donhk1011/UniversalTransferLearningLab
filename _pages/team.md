@@ -154,15 +154,12 @@ I was a research staff member at MIT-IBM Watson AI Lab. I obtained my PhD in the
 <br />
 
 ## Visitors
-Dujin Lee <br>
 Youngil Shin <br>
 Yongkyun Kim <br>
 Gyutak Hahn <br>
 Hyunbum Cho <br>
 Hyunjee Song <br>
-Seungjae Moon <br>
-Sunwoo Choi <br>
-Sungmin Kim <br>
+Seonwoo Choi <br>
 
 
 
