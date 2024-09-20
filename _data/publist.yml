@@ -1,7 +1,7 @@
 - title: "MATE: Meet At The Embedding--Connecting Images with Long Texts"
   authors: Young Kyun Jang, Junmo Kang, Yong Jae Lee, Donghyun Kim
   link:
-    url:
+    url: https://arxiv.org/pdf/2407.09541
     display: EMNLP Findings 2024
   highlight: 0
   year: 2024
@@ -10,7 +10,7 @@
 - title: "Weak-to-Strong Compositional Learning from Generative Models for Language-based Object Detection"
   authors: Kwanyong Park, Kuniaki Saito, Donghyun Kim
   link:
-    url:
+    url: https://arxiv.org/pdf/2407.15296
     display: ECCV 2024 and CVPR 2024 Workshop on "Generative Models for Computer Vision"
   highlight: 0
   year: 2024
@@ -18,7 +18,7 @@
 - title: "Efficient and Versatile Robust Fine-Tuning of Zero-shot Models"
   authors: Sungyeon Kim, Boseung Jeong, Donghyun Kim, Suha Kwak
   link:
-    url:
+    url: https://arxiv.org/pdf/2408.05749
     display: ECCV 2024
   highlight: 0
   year: 2024
@@ -27,7 +27,7 @@
 - title: "Visual Delta Generator for Semi-supervised Composed Image Retrieval"
   authors: Young Kyun Jang\*, Donghyun Kim\*, Zihang Meng, Dat Huynh, Ser-Nam Lim
   link:
-    url:
+    url: https://openaccess.thecvf.com/content/CVPR2024/papers/Jang_Visual_Delta_Generator_with_Large_Multi-modal_Models_for_Semi-supervised_Composed_CVPR_2024_paper.pdf
     display: CVPR 2024
   highlight: 0
   year: 2024
@@ -35,7 +35,7 @@
 - title: "What, How, and When Should Object Detectors Update in Continually Changing Test Domains?"
   authors: Jayeon Yoo, Dongkwan Lee, Inseop Chung, Donghyun Kim\*, Nojun Kwak\*
   link:
-    url:
+    url: https://openaccess.thecvf.com/content/CVPR2024/papers/Yoo_What_How_and_When_Should_Object_Detectors_Update_in_Continually_CVPR_2024_paper.pdf
     display: CVPR 2024
   highlight: 0
   year: 2024
@@ -43,7 +43,7 @@
 - title: "LLM4SGG: Large Language Model for Weakly Supervised Scene Graph Generation"
   authors: Kibum Kim, Kanghoon Yoon, Jaehyeong Jeon, Yeonjun In, Jinyoung Moon, Donghyun Kim, Chanyoung Park
   link:
-    url:
+    url: https://openaccess.thecvf.com/content/CVPR2024/papers/Kim_LLM4SGG_Large_Language_Models_for_Weakly_Supervised_Scene_Graph_Generation_CVPR_2024_paper.pdf
     display: CVPR 2024
   highlight: 0
   year: 2024
@@ -68,7 +68,7 @@
 - title: "Learning Human Action Recognition Representations Without Real Humans"
   authors: Howard Zhong, Samarth Mishra, Donghyun Kim, SouYoung Jin, Rameswar Panda, Hilde Kuehne, Leonid Karlinsky, Venkatesh Saligrama, Aude Oliva, Rogerio Feris
   link:
-    url:
+    url: https://proceedings.neurips.cc/paper_files/paper/2023/file/cd556f38dba3a6c367c42fa85fc0801c-Paper-Datasets_and_Benchmarks.pdf
     display: NeurIPS 2023
   highlight: 0
   year: 2023
