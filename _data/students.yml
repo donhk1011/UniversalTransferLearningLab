@@ -23,3 +23,22 @@
 #  education1:
 
 
+- name: Sojung An
+  photo: Sojung.jpg
+  info: PhD Student
+#  email: ssojungan@gmail.com
+
+- name: Yongwoo Kim
+  photo: Yongwoo.jpg
+  info: MS/PhD Student
+#  email: ssojungan@gmail.com
+
+- name: Jungmyung Wi
+  photo: Jungmyung.png
+  info: MS Student
+#  email: ssojungan@gmail.com
+
+- name: Dujin Lee
+  photo: Dujin.png
+  info: MS Student
+#  email: ssojungan@gmail.com
