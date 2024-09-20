@@ -86,7 +86,7 @@ I was a research staff member at MIT-IBM Watson AI Lab. I obtained my PhD in the
 
 **We are  looking for new MS/PhD, PhD, and Postdocs to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/openings) **!** <br>
 
-[//]: # (##  Students)
+##  Students
 
 [//]: # (Sojung Ahn <br>)
 
@@ -109,6 +109,7 @@ I was a research staff member at MIT-IBM Watson AI Lab. I obtained my PhD in the
 {% endif %}
 
 <div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="10%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
