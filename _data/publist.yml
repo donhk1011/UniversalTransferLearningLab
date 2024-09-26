@@ -1,3 +1,11 @@
+- title: "Unified Domain Generalization and Adaptation for Multi-View 3D Object Detection"
+  authors: Gyusam Chang, Jiwon Lee, Donghyun Kim, Jinkyu Kim, Dongwook Lee, Daehyun Ji, Sujin Jang, Sangpil Kim
+  link:
+    url:
+    display: NeurIPS 2024
+  highlight: 0
+  year: 2024
+
 - title: "MATE: Meet At The Embedding--Connecting Images with Long Texts"
   authors: Young Kyun Jang, Junmo Kang, Yong Jae Lee, Donghyun Kim
   link:
