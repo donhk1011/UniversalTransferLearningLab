@@ -1,3 +1,21 @@
+- title: "Learning Unified Distance Metric Across Diverse Data Distributions with Parameter-Efficient Transfer Learning"
+  authors: Jongwoo Park, Kanchana Ranasinghe, Kumara Kahatapitiya, Wonjeong Ryoo, Donghyun Kim, Michael S Ryoo
+  link:
+    url: https://arxiv.org/pdf/2406.09396
+    display: WACV 2024
+  highlight: 0
+  year: 2024
+
+
+
+- title: "Too many frames, not all useful: Efficient Strategies for Long-Form Video QA"
+  authors: Jongwoo Park, Kanchana Ranasinghe, Kumara Kahatapitiya, Wonjeong Ryoo, Donghyun Kim, Michael S Ryoo
+  link:
+    url: https://arxiv.org/pdf/2406.09396
+    display: NeurIPS 2024 Workshop
+  highlight: 0
+  year: 2024
+
 - title: "Unified Domain Generalization and Adaptation for Multi-View 3D Object Detection"
   authors: Gyusam Chang, Jiwon Lee, Donghyun Kim, Jinkyu Kim, Dongwook Lee, Daehyun Ji, Sujin Jang, Sangpil Kim
   link:
