@@ -1,3 +1,12 @@
+- title: "ReTAG: Retrieval-Augmented Scene Graph Generation via Multi-Prototype Learning"
+  authors: Kanghoon Yoon, Kibum Kim, Jaehyeong Jeon, Yeonjun In, Donghyun Kim, Chanyoung Park
+  link:
+    url:
+    display: AAAI 2025
+  highlight: 0
+  year: 2025
+
+
 - title: "Learning Unified Distance Metric Across Diverse Data Distributions with Parameter-Efficient Transfer Learning"
   authors: Sungyeon Kim, Donghyun Kim, Suha Kwak
   link:
