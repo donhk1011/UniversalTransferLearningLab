@@ -6,10 +6,10 @@
   highlight: 0
   year: 2025
 
-- title: "ReTAG: Retrieval-Augmented Scene Graph Generation via Multi-Prototype Learning"
+- title: "RA-SGG: Retrieval-Augmented Scene Graph Generation Framework via Multi-Prototype Learning"
   authors: Kanghoon Yoon, Kibum Kim, Jaehyeong Jeon, Yeonjun In, Donghyun Kim, Chanyoung Park
   link:
-    url:
+    url: https://arxiv.org/pdf/2412.12788
     display: AAAI 2025
   highlight: 0
   year: 2025
@@ -36,7 +36,7 @@
 - title: "Unified Domain Generalization and Adaptation for Multi-View 3D Object Detection"
   authors: Gyusam Chang, Jiwon Lee, Donghyun Kim, Jinkyu Kim, Dongwook Lee, Daehyun Ji, Sujin Jang, Sangpil Kim
   link:
-    url:
+    url: https://arxiv.org/pdf/2410.22461
     display: NeurIPS 2024
   highlight: 0
   year: 2024
