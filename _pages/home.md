@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 <div style="text-align: center; margin-bottom: 20px;">
-  <img src="../images/logopic/logo_UTL.png" alt="UTL Lab Logo" style="width: 200px; height: auto;">
+  <img src="../images/logopic/logo_UTL.png" alt="UTL Lab Logo" style="width: 500px; height: auto;">
 </div>
 We are <strong>Universal Transfer Learning (UTL)</strong> lab at Korea University with <a href="https://cs-people.bu.edu/donhk/">Prof. Donghyun Kim</a>. Our research pursuits are situated under the expansive umbrella of transfer learning, with a particular emphasis on investigating the transferability, generalization, and adaptability of robust artificial intelligence (AI) models across a wide array of AI domains and disciplines.
 
@@ -30,7 +30,7 @@ We are <strong>Universal Transfer Learning (UTL)</strong> lab at Korea Universit
 </ul>
 
 <div style="text-align: center; margin-bottom: 20px;">
-  <img src="../images/picpic/research.png.png" alt="UTL Research" style="width: 200px; height: auto;">
+  <img src="../images/picpic/research.png" alt="UTL Research" style="width: 500px; height: auto;">
 </div>
 
 <br />
