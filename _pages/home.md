@@ -30,7 +30,7 @@ We are <strong>Universal Transfer Learning (UTL)</strong> lab at Korea Universit
 </ul>
 
 <div style="text-align: center; margin-bottom: 20px;">
-  <img src="../images/picpic/research.png" alt="UTL Research" style="width: 500px; height: auto;">
+  <img src="../images/picpic/research.png" alt="UTL Research" style="width: 600px; height: auto;">
 </div>
 
 <br />
