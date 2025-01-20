@@ -88,7 +88,7 @@ I was a research staff member at MIT-IBM Watson AI Lab. I obtained my PhD in the
 
 ##  Students
 
-[//]: # (Sojung Ahn <br>)
+<!-- [//]: # (Sojung Ahn <br>)
 
 [//]: # (Jung Myung Wi <br>)
 
@@ -96,7 +96,7 @@ I was a research staff member at MIT-IBM Watson AI Lab. I obtained my PhD in the
 
 [//]: # (Yongwoo Kim <br>)
 
-[//]: # (Hyunsoo Kim <br>)
+[//]: # (Hyunsoo Kim <br>) -->
 
 
 {% assign number_printed = 0 %}
@@ -154,17 +154,9 @@ I was a research staff member at MIT-IBM Watson AI Lab. I obtained my PhD in the
 <br />
 
 ## Visitors
-Youngil Shin <br>
-Yongkyun Kim <br>
-Gyutak Hahn <br>
-Hyunbum Cho <br>
-Hyunjee Song <br>
-Seonwoo Choi <br>
-
-
 
 {% assign number_printed = 0 %}
-{% for member in site.data.alumni_members %}
+{% for member in site.data.ug_students %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -172,19 +164,36 @@ Seonwoo Choi <br>
 <div class="row">
 {% endif %}
 
-[//]: # (<div class="col-sm-6 clearfix">)
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
+  <ul style="overflow: hidden">
 
-[//]: # (  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />)
+  {% if member.number_educ == 1 %}
+  <li> {{ member.education1 }} </li>
+  {% endif %}
 
-[//]: # (  <h4>{{ member.name }}</h4>)
+  {% if member.number_educ == 2 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  {% endif %}
 
-[//]: # (  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>)
+  {% if member.number_educ == 3 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  {% endif %}
 
-[//]: # (  <ul style="overflow: hidden">)
+  {% if member.number_educ == 4 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  {% endif %}
 
-[//]: # ()
-[//]: # (  </ul>)
-[//]: # (</div>)
+  </ul>
+</div>
 
 {% assign number_printed = number_printed | plus: 1 %}
 
@@ -200,7 +209,7 @@ Seonwoo Choi <br>
 {% endif %}
 <br />
 
-## Former students
+<!-- ## Former students -->
 
 [//]: # (<br />)
 [//]: # (<div class="row">)

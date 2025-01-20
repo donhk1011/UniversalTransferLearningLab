@@ -1,0 +1,79 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+#
+#- name: Ilse Kuijf
+#  photo: rock.jpg
+#  info: Master student
+#  email: m.ortego.larrazabal@umail.leidenuniv.nl
+#  number_educ: 0
+#  education1:
+#
+#- name: Tessa Van der Ent
+#  photo: rock.jpg
+#  info: Master student
+#  email: m.ortego.larrazabal@umail.leidenuniv.nl
+#  number_educ: 0
+#  education1:
+
+
+- name: Youngil Shin
+  photo: Youngil.jpg
+  info: Undergraduate Student
+#  email: ssojungan@gmail.com
+
+- name: Hyunjee Song
+  photo: Hyunjee.jpg
+  info: Undergraduate Student
+#  email: ssojungan@gmail.com
+
+- name: Younggyun Kim
+  photo: Younggyun.jpg
+  info: Undergraduate Student
+#  email: ssojungan@gmail.com
+
+- name: Heedo Lee
+  photo: Heedo.jpg
+  info: Undergraduate Student
+#  email: ssojungan@gmail.com
+
+- name: Bogeon Park
+  photo: Bogeon.jpg
+  info: Undergraduate Student
+#  email: ssojungan@gmail.com
+
+- name: Hyunjin Lee
+  photo: Hyunjin.jpg
+  info: Undergraduate Student
+#  email: ssojungan@gmail.com
+
+- name: Jeongmin Moon
+  photo: Jeongmin.jpg
+  info: Undergraduate Student
+#  email: ssojungan@gmail.com
+
+- name: Huiwon Gwon
+  photo: Bogeon.jpg
+  info: Undergraduate Student
+#  email: ssojungan@gmail.com
+
+- name: Donghyun Shin
+  photo: Donghyun_Shin.jpg
+  info: Undergraduate Student
+#  email: ssojungan@gmail.com
+
+- name: Junseok Lee
+  photo: Junseok.jpg
+  info: Undergraduate Student
+#  email: ssojungan@gmail.com
+
+- name: Sangwook Lee
+  photo: Junseok.jpg
+  info: Undergraduate Student
+#  email: ssojungan@gmail.com

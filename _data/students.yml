@@ -33,6 +33,10 @@
   info: MS/PhD Student
 #  email: ssojungan@gmail.com
 
+- name: Seonwoo Choi
+  photo: Seonwoo.jpg
+  info: MS/PhD Student
+
 - name: Jungmyung Wi
   photo: Jungmyung.png
   info: MS Student
@@ -45,4 +49,8 @@
 
 - name: Hyunsoo Kim
   photo: Hyunsoo.jpg
+  info: MS Student
+
+- name: Hyunbum Cho
+  photo: Hyunbum.jpg
   info: MS Student
