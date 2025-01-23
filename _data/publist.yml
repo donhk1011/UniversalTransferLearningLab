@@ -1,3 +1,11 @@
+- title: "Weakly Supervised Video Scene Graph Generation via Natural Language Supervision"
+  authors: Kibum Kim, Kanghoon Yoon, Yeonjun In, Jaehyeong Jeon, Jinyoung Moon, Donghyun Kim, Chanyoung Park
+  link:
+    url: https://arxiv.org/pdf/2406.04867
+    display: ICLR 2025
+  highlight: 0
+  year: 2025
+
 - title: "Deep learning for precipitation nowcasting: A survey from the perspective of time series forecasting"
   authors: Sojung An, Tae-Jin Oh, Eunha Sohn, Donghyun Kim
   link:
@@ -18,7 +26,7 @@
 - title: "Learning Unified Distance Metric Across Diverse Data Distributions with Parameter-Efficient Transfer Learning"
   authors: Sungyeon Kim, Donghyun Kim, Suha Kwak
   link:
-    url: https://arxiv.org/pdf/2309.08944
+    url: https://openreview.net/pdf/be978c51e1430e8248c9ffb9fe0bba2e0b3ceb1c.pdf
     display: WACV 2025
   highlight: 0
   year: 2025
